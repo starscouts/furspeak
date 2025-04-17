@@ -1,0 +1,5 @@
+#!/usr/bin/env furspeak
+local thing = {"a", "b", "c"}
+print(thing[1]) -- This prints "a" ???
+
+print(debug(thing))
